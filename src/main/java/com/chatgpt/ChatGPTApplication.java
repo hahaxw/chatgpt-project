@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Created by vn0790t on 2020/1/9.
+ * chatGPT
  */
 @SpringBootApplication
 public class ChatGPTApplication {
